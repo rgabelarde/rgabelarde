@@ -1,9 +1,19 @@
 <h3 align="center">👋 Hi there!</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/rachelgina/">Reach me at: LinkedIn</a>
+  Reach me at: <a href="https://www.linkedin.com/in/rachelgina/">LinkedIn</a>
 </p>
 
 ---
+
+
+## GitHub Stats
+
+[![Rachel's GitHub stats](https://github-readme-stats.vercel.app/api?username=rgabelarde&count_private=true&show_icons=true&theme=nord)](https://github.com/rgabelarde/github-readme-stats)
+
+
+### Technologies & Tools
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rgabelarde&layout=compact&theme=nord)](https://github.com/rgabelarde/github-readme-stats)
 
 <!--
 **rgabelarde/rgabelarde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,13 +30,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- Actual text -->
-
-## GitHub Stats
-
-[![Rachel's GitHub stats](https://github-readme-stats.vercel.app/api?username=rgabelarde&count_private=true&show_icons=true&theme=nord)](https://github.com/rgabelarde/github-readme-stats)
-
-
-### Technologies & Tools
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rgabelarde&layout=compact&theme=nord)](https://github.com/rgabelarde/github-readme-stats)
 
