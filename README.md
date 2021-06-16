@@ -1,4 +1,9 @@
-### Hi there 👋
+<h3 align="center">👋 Hi there!</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/rachelgina/">Reach me at: LinkedIn</a> •
+</p>
+
+---
 
 <!--
 **rgabelarde/rgabelarde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +19,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- Actual text -->
+
+## GitHub Stats
+
+![Rachel's github stats](https://github-readme-stats.vercel.app/api?username=rgabelarde)
+
+### Technologies & Tools
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rgabelarde&layout=compact)](https://github.com/rgabelarde/github-readme-stats)
+
