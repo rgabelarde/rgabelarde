@@ -1,6 +1,6 @@
 <h3 align="center">👋 Hi there!</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/rachelgina/">Reach me at: LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/rachelgina/">Reach me at: LinkedIn</a>
 </p>
 
 ---
@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 
 ## GitHub Stats
 
-[![Rachel's GitHub stats](https://github-readme-stats.vercel.app/api?username=rgabelarde&count_private=true&show_icons=true&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
+[![Rachel's GitHub stats](https://github-readme-stats.vercel.app/api?username=rgabelarde&count_private=true&show_icons=true&theme=nord)](https://github.com/rgabelarde/github-readme-stats)
 
 
 ### Technologies & Tools
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rgabelarde&layout=compact&theme=ayu-mirage)](https://github.com/rgabelarde/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rgabelarde&layout=compact&theme=nord)](https://github.com/rgabelarde/github-readme-stats)
 
