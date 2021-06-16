@@ -23,9 +23,10 @@ Here are some ideas to get you started:
 
 ## GitHub Stats
 
-![Rachel's github stats](https://github-readme-stats.vercel.app/api?username=rgabelarde)
+[![Rachel's GitHub stats](https://github-readme-stats.vercel.app/api?username=rgabelarde&count_private=true&show_icons=true&theme=ayu-mirage))](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Technologies & Tools
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rgabelarde&layout=compact)](https://github.com/rgabelarde/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rgabelarde&layout=compact&theme=ayu-mirage)](https://github.com/rgabelarde/github-readme-stats)
 
