@@ -12,8 +12,7 @@
 
 
 ### Technologies & Tools
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rgabelarde&layout=compact&theme=nord)](https://github.com/rgabelarde/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rgabelarde&layout=compact)](https://github.com/rgabelarde/github-readme-stats)
 
 <!--
 **rgabelarde/rgabelarde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
